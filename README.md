@@ -1,6 +1,6 @@
 # MondayAzure
-
-2018-07-02 [#20 MA#20 Docker가 뭐에요? 도알못을 위한 이야기](https://youtu.be/gQG_FX9hlMg)(Guest: 김은지)<br>
+2018-07-16 [#21 명령어로 따라해보는 Docker!!](https://youtu.be/Ufrp6H6VbNs)<br>
+2018-07-02 [#20 Docker가 뭐에요? 도알못을 위한 이야기](https://youtu.be/gQG_FX9hlMg)(Guest: 김은지)<br>
 2018-06-25 [#19 2018년산 따끈따끈 무료 이북을 소개해드립니다.](https://youtu.be/Sa5D1BnA86M)<br>
 2018-06-18 [#18 Microsoft의 챗봇 플랫폼 이야기](https://youtu.be/j4cQ6UCeH7s)(Guest: 이승민)<br>
 2018-06-11 [#17 Microsoft Open Source 담당자에게 들어보는 Github 인수 이야기](https://youtu.be/cX9j506aQLI)(Guest: 최주열)<br>
@@ -21,7 +21,8 @@
 2018-01-15 [#2 Azure Functions 입문](https://youtu.be/vF-VCnuEmjg) (Guest: 김은지)<br>
 2018-01-08 [#1 첫화 Azure Web App의 활용법](https://youtu.be/GX8tcwloZ0w)<br>
 
-#앞으로 다룰 주제
+# 앞으로 다룰 주제
+
 Azure AI with Python.<br>
 Azure Data Factory.<br>
 AKS. <br>
