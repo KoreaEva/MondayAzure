@@ -1,4 +1,8 @@
 # MondayAzure
+
+2018-08-07 [#24 Azure Maps와 무료 Azure 교육 소식까지!!](https://youtu.be/fifajQuG74g)<br>
+2018-07-30 [#23 Python개발자를 위한 축복!! Azure Notebooks!!](https://youtu.be/j-QLapIqw7I)<br>
+2018-07-23 [#22 Microsoft Azure 매출 발표 소식외 뉴스](https://youtu.be/PQmsC5RsmSE)<br>
 2018-07-16 [#21 명령어로 따라해보는 Docker!!](https://youtu.be/Ufrp6H6VbNs)<br>
 2018-07-02 [#20 Docker가 뭐에요? 도알못을 위한 이야기](https://youtu.be/gQG_FX9hlMg)(Guest: 김은지)<br>
 2018-06-25 [#19 2018년산 따끈따끈 무료 이북을 소개해드립니다.](https://youtu.be/Sa5D1BnA86M)<br>
